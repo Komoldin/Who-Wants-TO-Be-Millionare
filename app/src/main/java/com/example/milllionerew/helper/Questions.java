@@ -22,7 +22,7 @@ public class Questions {
         a = new String[]{"A)6 декабря 2000", "B)6 января 2001", "C)7 ноября 1999", "D)8 сенятбря 2000"};
         questions.add(new Question("Былшог ? ", a, 3, 290));
         a = new String[]{"A)6 декабря 2000", "B)6 января 2001", "C)7 ноября 1999", "D)8 сенятбря 2000"};
-        questions.add(new Question("Былолдл ? ", a, 3, 290));
+        questions.add(new Question("Быsлолдл ? ", a, 3, 290));
     }
 
     public ArrayList<Question> getQuestions() {
